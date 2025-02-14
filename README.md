@@ -1,2 +1,2 @@
 # HTML_Project_2
-It's an Personal Resume Using HTML
+It's a Personal Resume Using HTML
